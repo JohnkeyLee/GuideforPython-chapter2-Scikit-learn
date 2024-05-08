@@ -1,13 +1,11 @@
 # GuideforPython-chapter1-Scikit-learn
 CHECK CONTENTS BELOW LATER 05/03/2024
-This chapter contains the basics of Python, such as Data handling. 
-<br/>It is crucial to improve your basic knowledge of data handling.
+This chapter introduces the basics of scikit-learn with embedded data set
+<br/> You can follow the examples one by one or check the structures of the basic ML.
 <br/> This repository provides knowledge in three sections:
-<br/> **Basic** 
-<br/> **Numpy**
-<br/> **Pandas**
+<br/> **scikit-learn** 
 <br/>
-<br/>In the following parts, Matplotlib and Seaborn will be addressed because it is much easier to learn from the machine learning example.
+<br/> 
 <br/>
 <br/>**Disclosure** 
 <br/>This work is based on the textbook "The Perfect Guide for Machine Learning with Python" written by Chulmin Kwon 
