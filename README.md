@@ -1,8 +1,10 @@
 # GuideforPython-chapter1-Scikit-learn
-CHECK CONTENTS BELOW LATER 05/03/2024
 <br/> This chapter introduces the basics of scikit-learn with embedded data set
 <br/> You can follow the examples one by one or check the structures of the basic ML.
 <br/>
+<br/> **Chapter 2-1:** Basic of scikit-learn with examples
+<br/> **Chapter 2-2:** Basic of scikit-learn modules 
+<br/> 
 <br/> This repository provides knowledge in three sections:
 <br/> **scikit-learn** 
 <br/>
