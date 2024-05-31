@@ -4,7 +4,8 @@
 <br/>
 <br/> **Chapter 2-1:** Basic of scikit-learn with examples
 <br/> **Chapter 2-2:** Basic of scikit-learn modules 
-<br/> **Chapter 2-3:** How to re-scale your data to fit into ML (numerical). Please read and follow the instruction carefully, especially about fit() and transform() for train and test data set
+<br/> **Chapter 2-3:** How to re-scale your data to fit into ML (numerical). 
+<br/> Please read and follow the instruction carefully, especially about fit() and transform() for train and test data set
 <br/> 
 <br/> This repository provides knowledge in three sections:
 <br/> **scikit-learn** 
